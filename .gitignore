@@ -1,0 +1,6 @@
+.vs/
+epoch_conv/
+x64/
+Debug/
+Release/
+*.user
